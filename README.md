@@ -8,6 +8,8 @@
 如果您有更好的资料，欢迎推荐我去学习。
 
 # 其他收藏的文章，可用来加强学习
-[Advanced Visualization for Data Scientists with Matplotlib](https://medium.com/sfu-big-data/advanced-visualization-for-data-scientists-with-matplotlib-15c28863c41c)
+[文章-Advanced Visualization for Data Scientists with Matplotlib](https://medium.com/sfu-big-data/advanced-visualization-for-data-scientists-with-matplotlib-15c28863c41c)
 
-[Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
+[文章-Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
+
+[资料-中文其他人做的总结](https://github.com/TXHY/Matplotlib-and-Seaborn/tree/master/code)
